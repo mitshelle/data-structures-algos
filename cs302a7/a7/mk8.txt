@@ -1,0 +1,17 @@
+Mario
+Luigi
+Bowser
+Peach
+Toad
+ShyGuy
+KingBoo
+Rosalina
+Yoshi
+Daisy
+DonkeyKong
+KoopaTroopa
+Link
+DiddyKong
+BowserJr
+Wario
+Waluigi

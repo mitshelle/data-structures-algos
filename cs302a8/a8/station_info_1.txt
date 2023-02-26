@@ -1,0 +1,7 @@
+StationS 0
+StationC 10.6
+StationA 25.5
+StationB 20.4
+StationD 2.9
+StationE 18.2
+StationF 0.0

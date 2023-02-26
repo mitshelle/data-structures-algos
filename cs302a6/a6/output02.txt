@@ -1,0 +1,170 @@
+Enter krusty krab menu: 
+Item Name                        Price  Quantity
+FriedOysterSkins                 14.99        13
+KelpShake                         1.99        20
+KrabbyPatty                       5.25        50
+ButteredBarnacle                  7.99        10
+CrunchyKelpDog                    5.99         7
+FreshSludgePudding                2.99         9
+Pizza                            12.99         1
+SmallCoralBits                    1.99        11
+KelpRings                         2.50         5
+SailorsSurprise                  60.00        10
+SmallSeafoamSoda                  1.99        15
+SaltySauce                        0.95        30
+AdultSizedKrabbyPatty             7.25         5
+CoralBits                         1.19        24
+DietDrKelp                        2.99        20
+DoubleFriedKelpFritter            6.25         9
+KelpBits                          1.29        20
+SeaweedSalad                      5.60        15
+KrabbyNewburg                    39.99         5
+SaltySeaDog                       2.50        19
+FriedFlotsam                      4.59        10
+CaptainOlaf'sSpecial             13.29        20
+FrenchFries                       1.59        20
+GoldenLoaf                       10.99        17
+DoubleTripleBossyDeluxe           9.99        13
+CryingJohnny                     11.99        11
+MonsterKrabbyPatty                8.99        16
+PipsqueakPatty                    0.99         8
+PowderedDriftwood                 5.99        13
+
+Are you going to order today, sir? Great, excellent choice
+How many? Well done, took you long enough
+Will this complete your order? 
+Item Name                        Price  Quantity
+FriedOysterSkins                 14.99        13
+KelpShake                         1.99        17
+KrabbyPatty                       5.25        50
+ButteredBarnacle                  7.99        10
+CrunchyKelpDog                    5.99         7
+FreshSludgePudding                2.99         9
+Pizza                            12.99         1
+SmallCoralBits                    1.99        11
+KelpRings                         2.50         5
+SailorsSurprise                  60.00        10
+SmallSeafoamSoda                  1.99        15
+SaltySauce                        0.95        30
+AdultSizedKrabbyPatty             7.25         5
+CoralBits                         1.19        24
+DietDrKelp                        2.99        20
+DoubleFriedKelpFritter            6.25         9
+KelpBits                          1.29        20
+SeaweedSalad                      5.60        15
+KrabbyNewburg                    39.99         5
+SaltySeaDog                       2.50        19
+FriedFlotsam                      4.59        10
+CaptainOlaf'sSpecial             13.29        20
+FrenchFries                       1.59        20
+GoldenLoaf                       10.99        17
+DoubleTripleBossyDeluxe           9.99        13
+CryingJohnny                     11.99        11
+MonsterKrabbyPatty                8.99        16
+PipsqueakPatty                    0.99         8
+PowderedDriftwood                 5.99        13
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? Great, excellent choice
+How many? Well done, took you long enough
+Will this complete your order? 
+Item Name                        Price  Quantity
+FriedOysterSkins                 14.99        13
+KelpShake                         1.99        17
+KrabbyPatty                       5.25        50
+ButteredBarnacle                  7.99        10
+CrunchyKelpDog                    5.99         7
+FreshSludgePudding                2.99         9
+Pizza                            12.99         1
+SmallCoralBits                    1.99        11
+KelpRings                         2.50         5
+SailorsSurprise                  60.00        10
+SmallSeafoamSoda                  1.99        15
+SaltySauce                        0.95        30
+AdultSizedKrabbyPatty             7.25         5
+CoralBits                         1.19        24
+DietDrKelp                        2.99        20
+DoubleFriedKelpFritter            6.25         9
+KelpBits                          1.29        20
+SeaweedSalad                      5.60        15
+KrabbyNewburg                    39.99         5
+SaltySeaDog                       2.50        19
+FriedFlotsam                      4.59        10
+CaptainOlaf'sSpecial             13.29        20
+FrenchFries                       1.59        20
+GoldenLoaf                       10.99        17
+DoubleTripleBossyDeluxe           9.99        13
+CryingJohnny                     11.99         1
+MonsterKrabbyPatty                8.99        16
+PipsqueakPatty                    0.99         8
+PowderedDriftwood                 5.99        13
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? We serve food here, sir
+
+Are you going to order today, sir? Great, excellent choice
+How many? Well done, took you long enough
+Will this complete your order? 
+Item Name                        Price  Quantity
+FriedOysterSkins                 14.99        13
+KelpShake                         1.99        17
+KrabbyPatty                       5.25        50
+ButteredBarnacle                  7.99        10
+CrunchyKelpDog                    5.99         7
+FreshSludgePudding                2.99         9
+Pizza                            12.99         1
+SmallCoralBits                    1.99        11
+KelpRings                         2.50         5
+SailorsSurprise                  60.00        10
+SmallSeafoamSoda                  1.99        15
+SaltySauce                        0.95        30
+AdultSizedKrabbyPatty             7.25         5
+CoralBits                         1.19        24
+DietDrKelp                        2.99        20
+DoubleFriedKelpFritter            6.25         9
+KelpBits                          1.29        20
+SeaweedSalad                      5.60        15
+KrabbyNewburg                    39.99         5
+SaltySeaDog                       2.50        19
+FriedFlotsam                      4.59        10
+CaptainOlaf'sSpecial             13.29        20
+FrenchFries                       1.59        20
+GoldenLoaf                       10.99         7
+DoubleTripleBossyDeluxe           9.99        13
+CryingJohnny                     11.99         1
+MonsterKrabbyPatty                8.99        16
+PipsqueakPatty                    0.99         8
+PowderedDriftwood                 5.99        13
+
+Are you going to order today, sir? Great, excellent choice
+How many? Well done, took you long enough
+Will this complete your order? 
+Your order comes out to $238.27
+
+Have a great day...barnacle head

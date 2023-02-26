@@ -1,0 +1,757 @@
+
+Enter racer file: mario_kart_8.txt
+
+Interval 1
+
+Enter racer's name: Luigi
+Enter updated distance: 45.7
+
+Enter racer's name: Waluigi
+Enter updated distance: 40.9
+
+Enter racer's name: Link
+Enter updated distance: 46.1
+
+Enter racer's name: Peach
+Enter updated distance: 40.7
+
+Enter racer's name: Toad
+Enter updated distance: 43.4
+
+Enter racer's name: ShyGuy
+Enter updated distance: 45.6
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 47
+
+Enter racer's name: Daisy
+Enter updated distance: 44.7
+
+Enter racer's name: Bowser
+Enter updated distance: 46.6
+
+Enter racer's name: Yoshi
+Enter updated distance: 48
+
+Enter racer's name: Mario
+Enter updated distance: 43.3
+
+Enter racer's name: DiddyKong
+Enter updated distance: 41.7
+
+Enter racer's name: KingBoo
+Enter updated distance: 49.6
+
+Enter racer's name: Rosalina
+Enter updated distance: 48.5
+
+Enter racer's name: BowserJr
+Enter updated distance: 49.1
+
+Enter racer's name: Wario
+Enter updated distance: 48.4
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 48
+
+
+Interval 2
+
+Enter racer's name: Luigi
+Enter updated distance: 36.3
+
+Enter racer's name: Rosalina
+Enter updated distance: 48.5
+
+Enter racer's name: Wario
+Enter updated distance: 39.2
+
+Enter racer's name: Peach
+Enter updated distance: 40.5
+
+Enter racer's name: Toad
+Enter updated distance: 35.2
+
+Enter racer's name: Waluigi
+Enter updated distance: 37.3
+
+Enter racer's name: Bowser
+Enter updated distance: 46.2
+
+Enter racer's name: Daisy
+Enter updated distance: 39.4
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 44.9
+
+Enter racer's name: ShyGuy
+Enter updated distance: 44.9
+
+Enter racer's name: Mario
+Enter updated distance: 43.3
+
+Enter racer's name: DiddyKong
+Enter updated distance: 33.3
+
+Enter racer's name: KingBoo
+Enter updated distance: 44.2
+
+Enter racer's name: Yoshi
+Enter updated distance: 47.8
+
+Enter racer's name: DONE
+
+Interval 3
+
+Enter racer's name: Luigi
+Enter updated distance: 28.1
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 44
+
+Enter racer's name: KingBoo
+Enter updated distance: 39.9
+
+Enter racer's name: Peach
+Enter updated distance: 35.6
+
+Enter racer's name: Rosalina
+Enter updated distance: 41.1
+
+Enter racer's name: Waluigi
+Enter updated distance: 34.8
+
+Enter racer's name: Bowser
+Enter updated distance: 46.2
+
+Enter racer's name: Yoshi
+Enter updated distance: 43.8
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 43.6
+
+Enter racer's name: DiddyKong
+Enter updated distance: 24
+
+Enter racer's name: ShyGuy
+Enter updated distance: 41.6
+
+Enter racer's name: DONE
+
+Interval 4
+
+Enter racer's name: Peach
+Enter updated distance: 32.2
+
+Enter racer's name: DONE
+
+Interval 5
+
+Enter racer's name: Peach
+Enter updated distance: 27.6
+
+Enter racer's name: Luigi
+Enter updated distance: 24
+
+Enter racer's name: Yoshi
+Enter updated distance: 38.6
+
+Enter racer's name: Mario
+Enter updated distance: 33.4
+
+Enter racer's name: Wario
+Enter updated distance: 37
+
+Enter racer's name: ShyGuy
+Enter updated distance: 38.2
+
+Enter racer's name: Waluigi
+Enter updated distance: 32.9
+
+Enter racer's name: KingBoo
+Enter updated distance: 31.5
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 35.9
+
+Enter racer's name: Rosalina
+Enter updated distance: 31.3
+
+Enter racer's name: DiddyKong
+Enter updated distance: 21.4
+
+Enter racer's name: Toad
+Enter updated distance: 31.8
+
+Enter racer's name: DONE
+
+Interval 6
+
+Enter racer's name: Link
+Enter updated distance: 44.4
+
+Enter racer's name: Bowser
+Enter updated distance: 40.1
+
+Enter racer's name: DiddyKong
+Enter updated distance: 14.7
+
+Enter racer's name: Mario
+Enter updated distance: 24.3
+
+Enter racer's name: Peach
+Enter updated distance: 22.2
+
+Enter racer's name: ShyGuy
+Enter updated distance: 33.1
+
+Enter racer's name: Waluigi
+Enter updated distance: 26.6
+
+Enter racer's name: Daisy
+Enter updated distance: 31.7
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 26.7
+
+Enter racer's name: Luigi
+Enter updated distance: 21.8
+
+Enter racer's name: Yoshi
+Enter updated distance: 35.6
+
+Enter racer's name: Toad
+Enter updated distance: 31.4
+
+Enter racer's name: BowserJr
+Enter updated distance: 40.4
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 34.1
+
+Enter racer's name: Rosalina
+Enter updated distance: 21.5
+
+Enter racer's name: Wario
+Enter updated distance: 33.8
+
+Enter racer's name: DONE
+
+Interval 7
+
+Enter racer's name: DiddyKong
+Enter updated distance: 7
+
+Enter racer's name: Luigi
+Enter updated distance: 12
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 19.9
+
+Enter racer's name: Mario
+Enter updated distance: 16.6
+
+Enter racer's name: DONE
+
+Interval 8
+
+Enter racer's name: DiddyKong
+Enter updated distance: 2.2
+
+Enter racer's name: Mario
+Enter updated distance: 9.3
+
+Enter racer's name: Toad
+Enter updated distance: 24.7
+
+Enter racer's name: KingBoo
+Enter updated distance: 30.1
+
+Enter racer's name: Peach
+Enter updated distance: 15.2
+
+Enter racer's name: ShyGuy
+Enter updated distance: 30.5
+
+Enter racer's name: Wario
+Enter updated distance: 31.6
+
+Enter racer's name: Daisy
+Enter updated distance: 30.2
+
+Enter racer's name: Bowser
+Enter updated distance: 31
+
+Enter racer's name: DONE
+
+Interval 9
+
+Enter racer's name: Waluigi
+Enter updated distance: 21.3
+
+Enter racer's name: Mario
+Enter updated distance: 0.6
+
+Enter racer's name: KingBoo
+Enter updated distance: 29
+
+Enter racer's name: Luigi
+Enter updated distance: 10.7
+
+Enter racer's name: Peach
+Enter updated distance: 7.2
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 27.4
+
+Enter racer's name: Wario
+Enter updated distance: 27.4
+
+Enter racer's name: Toad
+Enter updated distance: 20.3
+
+Enter racer's name: Bowser
+Enter updated distance: 27.3
+
+Enter racer's name: Yoshi
+Enter updated distance: 30.8
+
+Enter racer's name: DONE
+
+Interval 10
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 19.7
+
+Enter racer's name: DONE
+
+Interval 11
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 15.5
+
+Enter racer's name: Daisy
+Enter updated distance: 21.4
+
+Enter racer's name: Bowser
+Enter updated distance: 19.1
+
+Enter racer's name: Rosalina
+Enter updated distance: 16.6
+
+Enter racer's name: ShyGuy
+Enter updated distance: 23.4
+
+Enter racer's name: Wario
+Enter updated distance: 18.6
+
+Enter racer's name: Luigi
+Enter updated distance: 4.8
+
+Enter racer's name: KingBoo
+Enter updated distance: 22.5
+
+Enter racer's name: Waluigi
+Enter updated distance: 18.1
+
+Enter racer's name: Yoshi
+Enter updated distance: 21.8
+
+Enter racer's name: Link
+Enter updated distance: 40.7
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 17
+
+Enter racer's name: Peach
+Enter updated distance: 7.2
+
+Enter racer's name: DiddyKong
+Enter updated distance: -7.5
+
+Enter racer's name: BowserJr
+Enter updated distance: 39.8
+
+Enter racer's name: DONE
+
+Interval 12
+
+1 DiddyKong
+
+Enter racer's name: Luigi
+Enter updated distance: 0.6
+
+Enter racer's name: Link
+Enter updated distance: 35.9
+
+Enter racer's name: Yoshi
+Enter updated distance: 18.2
+
+Enter racer's name: Rosalina
+Enter updated distance: 15.4
+
+Enter racer's name: Peach
+Enter updated distance: 3.9
+
+Enter racer's name: Wario
+Enter updated distance: 18.5
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 15.2
+
+Enter racer's name: Toad
+Enter updated distance: 12.6
+
+Enter racer's name: Bowser
+Enter updated distance: 15.3
+
+Enter racer's name: ShyGuy
+Enter updated distance: 21.7
+
+Enter racer's name: Waluigi
+Enter updated distance: 11.5
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 8.6
+
+Enter racer's name: Daisy
+Enter updated distance: 12.5
+
+Enter racer's name: BowserJr
+Enter updated distance: 39.3
+
+Enter racer's name: Mario
+Enter updated distance: -5.1
+
+Enter racer's name: KingBoo
+Enter updated distance: 19.4
+
+
+Interval 13
+
+2 Mario
+
+Enter racer's name: ShyGuy
+Enter updated distance: 18.2
+
+Enter racer's name: BowserJr
+Enter updated distance: 37.2
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 11
+
+Enter racer's name: Luigi
+Enter updated distance: -8.3
+
+Enter racer's name: Rosalina
+Enter updated distance: 13.2
+
+Enter racer's name: Link
+Enter updated distance: 35.4
+
+Enter racer's name: Yoshi
+Enter updated distance: 17
+
+Enter racer's name: Wario
+Enter updated distance: 17.8
+
+Enter racer's name: Bowser
+Enter updated distance: 11.5
+
+Enter racer's name: Peach
+Enter updated distance: -4.1
+
+Enter racer's name: Waluigi
+Enter updated distance: 2.3
+
+Enter racer's name: DONE
+
+Interval 14
+
+3 Luigi
+
+4 Peach
+
+Enter racer's name: BowserJr
+Enter updated distance: 36.8
+
+Enter racer's name: Waluigi
+Enter updated distance: 0.3
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 9.2
+
+Enter racer's name: Bowser
+Enter updated distance: 10.4
+
+Enter racer's name: Link
+Enter updated distance: 35.4
+
+Enter racer's name: Toad
+Enter updated distance: 8.7
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: 4.6
+
+Enter racer's name: DONE
+
+Interval 15
+
+Enter racer's name: KoopaTroopa
+Enter updated distance: -1.8
+
+Enter racer's name: Wario
+Enter updated distance: 12.1
+
+Enter racer's name: Toad
+Enter updated distance: 3.2
+
+Enter racer's name: DONE
+
+Interval 16
+
+5 KoopaTroopa
+
+Enter racer's name: Link
+Enter updated distance: 35.4
+
+Enter racer's name: Rosalina
+Enter updated distance: 10.1
+
+Enter racer's name: Bowser
+Enter updated distance: 3.4
+
+Enter racer's name: KingBoo
+Enter updated distance: 13.9
+
+Enter racer's name: DONE
+
+Interval 17
+
+Enter racer's name: KingBoo
+Enter updated distance: 7
+
+Enter racer's name: Link
+Enter updated distance: 33.8
+
+Enter racer's name: Wario
+Enter updated distance: 10.5
+
+Enter racer's name: Bowser
+Enter updated distance: -6.5
+
+Enter racer's name: ShyGuy
+Enter updated distance: 9.8
+
+Enter racer's name: Daisy
+Enter updated distance: 7.7
+
+Enter racer's name: Waluigi
+Enter updated distance: -8.3
+
+Enter racer's name: Toad
+Enter updated distance: -6.1
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 5.3
+
+Enter racer's name: Rosalina
+Enter updated distance: 10
+
+Enter racer's name: Yoshi
+Enter updated distance: 7.4
+
+Enter racer's name: BowserJr
+Enter updated distance: 34.5
+
+
+Interval 18
+
+6 Waluigi
+
+7 Bowser
+
+8 Toad
+
+Enter racer's name: ShyGuy
+Enter updated distance: 6.6
+
+Enter racer's name: Yoshi
+Enter updated distance: -2.2
+
+Enter racer's name: Wario
+Enter updated distance: 9.4
+
+Enter racer's name: BowserJr
+Enter updated distance: 34.4
+
+Enter racer's name: Link
+Enter updated distance: 26.6
+
+Enter racer's name: Rosalina
+Enter updated distance: 3.1
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 0.3
+
+Enter racer's name: KingBoo
+Enter updated distance: -1.9
+
+Enter racer's name: Daisy
+Enter updated distance: 2.6
+
+
+Interval 19
+
+9 Yoshi
+
+10 KingBoo
+
+Enter racer's name: BowserJr
+Enter updated distance: 31.1
+
+Enter racer's name: ShyGuy
+Enter updated distance: 5.5
+
+Enter racer's name: Wario
+Enter updated distance: 6.8
+
+Enter racer's name: DONE
+
+Interval 20
+
+Enter racer's name: BowserJr
+Enter updated distance: 29.7
+
+Enter racer's name: Link
+Enter updated distance: 19
+
+Enter racer's name: DonkeyKong
+Enter updated distance: -2.9
+
+Enter racer's name: Rosalina
+Enter updated distance: 1.5
+
+Enter racer's name: ShyGuy
+Enter updated distance: -0.9
+
+Enter racer's name: DONE
+
+Interval 21
+
+11 DonkeyKong
+
+12 ShyGuy
+
+Enter racer's name: Daisy
+Enter updated distance: -4.8
+
+Enter racer's name: Wario
+Enter updated distance: 6.2
+
+Enter racer's name: Link
+Enter updated distance: 16.5
+
+Enter racer's name: DONE
+
+Interval 22
+
+13 Daisy
+
+Enter racer's name: Wario
+Enter updated distance: 0.1
+
+Enter racer's name: BowserJr
+Enter updated distance: 25.9
+
+Enter racer's name: DONE
+
+Interval 23
+
+Enter racer's name: BowserJr
+Enter updated distance: 24.5
+
+Enter racer's name: DONE
+
+Interval 24
+
+Enter racer's name: Rosalina
+Enter updated distance: -5.7
+
+Enter racer's name: DONE
+
+Interval 25
+
+14 Rosalina
+
+Enter racer's name: Link
+Enter updated distance: 10.6
+
+Enter racer's name: DONE
+
+Interval 26
+
+Enter racer's name: BowserJr
+Enter updated distance: 18.1
+
+Enter racer's name: Link
+Enter updated distance: 1.8
+
+Enter racer's name: DONE
+
+Interval 27
+
+Enter racer's name: Link
+Enter updated distance: 0.6
+
+Enter racer's name: Wario
+Enter updated distance: -4.6
+
+Enter racer's name: DONE
+
+Interval 28
+
+15 Wario
+
+Enter racer's name: BowserJr
+Enter updated distance: 16.9
+
+Enter racer's name: DONE
+
+Interval 29
+
+Enter racer's name: Link
+Enter updated distance: -1.6
+
+Enter racer's name: DONE
+
+Interval 30
+
+16 Link
+
+Enter racer's name: BowserJr
+Enter updated distance: 9.7
+
+
+Interval 31
+
+Enter racer's name: BowserJr
+Enter updated distance: 8.5
+
+
+Interval 32
+
+Enter racer's name: BowserJr
+Enter updated distance: 3
+
+
+Interval 33
+
+Enter racer's name: BowserJr
+Enter updated distance: -0.6
+
+
+Interval 34
+
+17 BowserJr
+

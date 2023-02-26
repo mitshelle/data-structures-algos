@@ -1,0 +1,11 @@
+StationS StationC 3.5
+StationS StationA 2.2
+StationC StationE 9.4
+StationA StationB 4.6
+StationF StationC 5.2
+StationB StationF 7.3
+StationA StationC 13.5
+StationE StationD 7.6
+StationE StationB 11.5
+StationE StationF 9.2
+StationS StationD 2.5

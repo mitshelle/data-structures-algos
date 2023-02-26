@@ -1,0 +1,11 @@
+StationS StationC 30.5
+StationS StationA 26.2
+StationC StationE 11.4
+StationA StationB 68.2
+StationF StationC 155.2
+StationB StationF 27.3
+StationA StationC 13.5
+StationE StationD 75.6
+StationE StationB 18.5
+StationE StationF 19.2
+StationS StationD 12.5

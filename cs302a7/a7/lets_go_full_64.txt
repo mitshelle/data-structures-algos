@@ -1,0 +1,174 @@
+
+Enter racer file: mario_kart_64.txt
+
+Interval 1
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 33.9
+
+Enter racer's name: Luigi
+Enter updated distance: 34.8
+
+Enter racer's name: Bowser
+Enter updated distance: 39.6
+
+Enter racer's name: Mario
+Enter updated distance: 37
+
+Enter racer's name: DONE
+
+Interval 2
+
+Enter racer's name: DONKEYKONG
+Enter updated distance: 18
+
+Enter racer's name: Bowser
+Enter updated distance: 23.3
+
+Enter racer's name: Yoshi
+Enter updated distance: 39.9
+
+Enter racer's name: peach
+Enter updated distance: 34.7
+
+Enter racer's name: Toad
+Enter updated distance: 33
+
+Enter racer's name: DonkeyKong
+Already updated racer at this interval!
+
+Enter racer's name: Wario
+Enter updated distance: 36.4
+
+Enter racer's name: Luigi
+Enter updated distance: 18.6
+
+Enter racer's name: Mario
+Enter updated distance: 26.1
+
+
+Interval 3
+
+Enter racer's name: Yoshi
+Enter updated distance: 24.6
+
+Enter racer's name: Bowser
+Enter updated distance: 5.9
+
+Enter racer's name: Wario
+Enter updated distance: 20.2
+
+Enter racer's name: YOSHI
+Already updated racer at this interval!
+
+Enter racer's name: DONE
+
+Interval 4
+
+Enter racer's name: Yoshi
+Enter updated distance: 8.7
+
+Enter racer's name: Peach
+Enter updated distance: 21.4
+
+Enter racer's name: Wario
+Enter updated distance: 6.3
+
+Enter racer's name: Luigi
+Enter updated distance: 0.4
+
+Enter racer's name: DONE
+
+Interval 5
+
+Enter racer's name: Luigi
+Enter updated distance: -12.1
+
+Enter racer's name: Bowser
+Enter updated distance: -10.8
+
+Enter racer's name: DONE
+
+Interval 6
+
+1 Luigi
+
+2 Bowser
+
+Enter racer's name: Toad
+Enter updated distance: 15.7
+
+Enter racer's name: LUIGI
+Racer has already finished the race!
+
+Enter racer's name: DONE
+
+Interval 7
+
+Enter racer's name: DonkeyKong
+Enter updated distance: 7.8
+
+Enter racer's name: Yoshi
+Enter updated distance: -8.8
+
+Enter racer's name: Peach
+Enter updated distance: 6.7
+
+Enter racer's name: Wario
+Enter updated distance: -6.8
+
+Enter racer's name: Yoshi
+Already updated racer at this interval!
+
+Enter racer's name: DONE
+
+Interval 8
+
+3 Yoshi
+
+4 Wario
+
+Enter racer's name: Toad
+Enter updated distance: -3.4
+
+Enter racer's name: DONE
+
+Interval 9
+
+5 Toad
+
+Enter racer's name: DonkeyKong
+Enter updated distance: -6.7
+
+Enter racer's name: DONE
+
+Interval 10
+
+6 DonkeyKong
+
+Enter racer's name: Peach
+Enter updated distance: -6.8
+
+Enter racer's name: DONE
+
+Interval 11
+
+7 Peach
+
+Enter racer's name: TOAD
+Racer has already finished the race!
+
+Enter racer's name: Mario
+Enter updated distance: 11.5
+
+
+Interval 12
+
+Enter racer's name: Mario
+Enter updated distance: -2.7
+
+
+Interval 13
+
+8 Mario
+
